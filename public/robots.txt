@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: undefined
+
+# Sitemaps
+Sitemap: undefined/sitemap.xml
+Sitemap: undefined/listing-sitemap.xml
+Sitemap: undefined/category-sitemap.xml
